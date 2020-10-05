@@ -1,4 +1,5 @@
 package main.August;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 /*
@@ -37,9 +38,6 @@ public class Polindromom {
         System.out.println(words.toString().equals(stdout.toString()));
 
     }
-
-
-
 
 }
 
